@@ -2,4 +2,4 @@
 deployment:
   tasks:
     - export DEPLOYPATH=/home/isnpl2022/public_html/myfolder/
-    - /bin/cp * $DEPLOYPATH 
+    - /bin/cp index2.html $DEPLOYPATH 
